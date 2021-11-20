@@ -3,9 +3,9 @@
       {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "native_for_admob":"",
+      "main_ads_banner": "ca-app-pub-9676953921795368/88668968",
+      "main_ads_intertitial":"ca-app-pub-9676953921795368/23340872",
+      "native_for_admob":"ca-app-pub-9676953921795368/62589740",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 2,
