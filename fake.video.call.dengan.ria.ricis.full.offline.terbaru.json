@@ -3,9 +3,9 @@
       {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-9676953921795368/7756436674x",
-      "main_ads_intertitial":"ca-app-pub-9676953921795368/1383257215x",
-      "native_for_admob":"ca-app-pub-9676953921795368/3817848867x",
+      "main_ads_banner": "ca-app-pub-9676953921795368/7756436674",
+      "main_ads_intertitial":"ca-app-pub-9676953921795368/1383257215",
+      "native_for_admob":"ca-app-pub-9676953921795368/3817848867",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 20,
